@@ -1,7 +1,13 @@
 * logging : loguru
 
-I need to highlight these ==very important words==.
+I need to =highlight= these <mark>very important words</mark>.
 
+<dl>
+<dt>Tech Stack</dt>
+<dd>Python, LangChain, Ollama, PDF</dd>
+</dl>
+
+## YT Videos:
 
 ### Python RAG Tutorial (with Local LLMs): AI For Your PDFs (21min) ℹ️
 🌐 [Link to Video](https://www.youtube.com/watch?v=2TJxpyO3ei4)
@@ -66,3 +72,43 @@ I need to highlight these ==very important words==.
 * [1:26:32](https://www.youtube.com/watch?v=sVcwVQRHIc8&t=5192s) CRAG
 * [1:44:09](https://www.youtube.com/watch?v=sVcwVQRHIc8&t=6249s) Adaptive RAG
 * [2:12:02](https://www.youtube.com/watch?v=sVcwVQRHIc8&t=7922s) The future of RAG
+
+### Build & Deploy a Python AI Agent in 20 Minutes (23min)
+🌐 [Link to Video](https://www.youtube.com/watch?v=eSbeub2ZeNk)
+* [00:00](https://www.youtube.com/watch?v=eSbeub2ZeNk&t=0s) Overview
+* [00:33](https://www.youtube.com/watch?v=eSbeub2ZeNk&t=33s) Tools & Architecture
+* [02:14](https://www.youtube.com/watch?v=eSbeub2ZeNk&t=134s) Setup & Install
+* [06:30](https://www.youtube.com/watch?v=eSbeub2ZeNk&t=390s) Writing the Agent 
+* [12:09](https://www.youtube.com/watch?v=eSbeub2ZeNk&t=729s) Writing the API
+* [15:00](https://www.youtube.com/watch?v=eSbeub2ZeNk&t=900s) HTML Template 
+* [16:48](https://www.youtube.com/watch?v=eSbeub2ZeNk&t=1008s) Testing the Code
+* [18:00](https://www.youtube.com/watch?v=eSbeub2ZeNk&t=1080s) Deploying to Vercel
+
+## MIsc.
+
+* [ ] [You’re Not Behind (Yet): How to Learn AI in 17 Minutes](https://www.youtube.com/watch?v=EWFFaKxsz_s)
+* [x] [20 AI Concepts Explained in 40 Minutes](https://www.youtube.com/watch?v=OYvlznJ4IZQ)
+
+
+## Notes & Learning
+
+* **Large Language Model (LLM)**
+* **Tokenization**
+* **Vectors (The process that creates vectors is called vectorization.)**
+* **Attention**
+* **Self-supervised learning**
+* **Transformer**
+* **Fine tuning**
+* **Few shot prompting**
+* **Retrieval Augmented Generation (RAG) (This is also referred to as "rank".)**
+* **Vector Database**
+* **Model Context Protocol (MCP)**
+* **Context Engineering**
+* **Agents**
+* **Reinforcement Learning**
+* **Chain of Thought**
+* **Reasoning Model (This is also known as L or M's.)**
+* **Multi-model models (or Multimodal models)**
+* **Small Language Models (SLMs)**
+* **Distillation (This process is used to create distilled models.)**
+* **Quantization**
