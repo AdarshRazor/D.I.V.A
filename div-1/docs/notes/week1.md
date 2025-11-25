@@ -112,3 +112,7 @@ I need to =highlight= these <mark>very important words</mark>.
 * **Small Language Models (SLMs)**
 * **Distillation (This process is used to create distilled models.)**
 * **Quantization**
+
+
+#### You're not behind (yet): How to learn AI in 17 minutes 
+The source is a transcript from a YouTube video by Gaurav Sen that **introduces and explains twenty key concepts** within the field of artificial intelligence, particularly focusing on large language models (LLMs). The discussion is aimed at engineers and covers fundamental components like **Large Language Models (LLMs)**, **tokenization**, and **vectors**, which represent the semantic meaning of words. More advanced topics are also addressed, including **attention mechanisms**, various **training methods** such as self-supervised learning, and **architectures** like the transformer. Finally, the transcript examines **practical application concepts** like fine-tuning, retrieval-augmented generation (RAG), and the distinctions between large and **small language models (SLMs)**, including the process of distillation.
