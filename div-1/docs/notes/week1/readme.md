@@ -1,3 +1,7 @@
+# Week1 Notes
+
+> ## Time: 25th Nov 2025 | 5:20 AM 
+
 * logging : loguru
 
 I need to =highlight= these <mark>very important words</mark>.
@@ -116,3 +120,13 @@ I need to =highlight= these <mark>very important words</mark>.
 
 #### You're not behind (yet): How to learn AI in 17 minutes 
 The source is a transcript from a YouTube video by Gaurav Sen that **introduces and explains twenty key concepts** within the field of artificial intelligence, particularly focusing on large language models (LLMs). The discussion is aimed at engineers and covers fundamental components like **Large Language Models (LLMs)**, **tokenization**, and **vectors**, which represent the semantic meaning of words. More advanced topics are also addressed, including **attention mechanisms**, various **training methods** such as self-supervised learning, and **architectures** like the transformer. Finally, the transcript examines **practical application concepts** like fine-tuning, retrieval-augmented generation (RAG), and the distinctions between large and **small language models (SLMs)**, including the process of distillation.
+
+
+
+<hr>
+
+
+> ## Time: 25th Nov 2025 | 7:35 PM
+
+
+**FalkorDB:** Ultra-fast, Multi-tenant Graph Database 🌐[Link](https://github.com/FalkorDB/FalkorDB)
