@@ -1,5 +1,7 @@
 # AI Roadmap
 
+## Roadmap Graph
+
 ```mermaid
 graph LR
     Root[("7-Step Roadmap to Master AI (30 Days)")]
@@ -102,3 +104,82 @@ graph LR
     style Step7 fill:#2c3e50,stroke:#fff,color:#fff
     style Concl fill:#555,stroke:#fff,color:#fff
 ```
+
+## Topics 
+
+* **Large Language Model (LLM)**
+* **Tokenization**
+* **Next Token Prediction (Probabilistic Generation)**
+* **Vectors (The process that creates vectors is called vectorization.)**
+* **Embeddings & Embedding Space**
+* **Attention**
+* **Self-supervised learning**
+* **Transformer**
+* **Fine tuning**
+* **Few shot prompting**
+* **Prompt Engineering Frameworks**
+    * **AIM (Actor, Input, Mission)**
+    * **MAP (Memory, Assets, Actions, Prompt)**
+    * **OCEAN (Origins, Concrete, Evident, Assertive, Narrative)**
+* **Retrieval Augmented Generation (RAG) (This is also referred to as "rank".)**
+* **Vector Database**
+* **Model Context Protocol (MCP)**
+* **Context Engineering**
+* **Context Window**
+* **Agents**
+* **Function Calling (Tool Use)**
+* **Reinforcement Learning**
+* **Chain of Thought**
+* **Reasoning Model (This is also known as L or M's.)**
+* **Multi-model models (or Multimodal models)**
+* **Small Language Models (SLMs)**
+* **Distillation (This process is used to create distilled models.)**
+* **Quantization**
+* **Hallucinations**
+* **Temperature (Model Parameters)**
+
+## Weekly Timeline
+
+### Day 1: The Fundamentals (What & How)
+* [ ] **Large Language Model (LLM)**: Understand the high-level concept.
+* [ ] **Tokenization**: Learn how text is broken down.
+* [ ] **Next Token Prediction**: Grasp the probabilistic nature of generation.
+* [ ] **Temperature**: Experiment with how randomness affects output.
+* [ ] **Hallucinations**: Understand why models make things up and how to spot it.
+
+### Day 2: Architecture & Representation (Under the Hood)
+* [ ] **Vectors & Vectorization**: Learn how text becomes numbers.
+* [ ] **Embeddings & Embedding Space**: Visualize how concepts relate mathematically.
+* [ ] **Attention Mechanism**: The key breakthrough allowing context understanding.
+* [ ] **Transformer Architecture**: The structure that makes modern AI possible.
+* [ ] **Self-supervised Learning**: How models learn from unlabeled data.
+
+### Day 3: Prompt Engineering & Context (Controlling the Model)
+* [ ] **Context Window**: Understand the limits of model memory.
+* [ ] **Context Engineering**: Techniques to maximize the context window.
+* [ ] **Few-Shot Prompting**: Teaching the model with examples.
+* [ ] **Prompt Frameworks**: Practice these specific structures:
+    * [ ] **AIM** (Actor, Input, Mission)
+    * [ ] **MAP** (Memory, Assets, Actions, Prompt)
+    * [ ] **OCEAN** (Origins, Concrete, Evident, Assertive, Narrative)
+
+### Day 4: Reasoning & Logic (Thinking Models)
+* [ ] **Chain of Thought (CoT)**: Encouraging step-by-step reasoning.
+* [ ] **Reasoning Models (o1, etc.)**: Models designed to "think" before answering.
+* [ ] **Reinforcement Learning**: How models are rewarded for better answers (RLHF).
+
+### Day 5: Knowledge Retrieval (RAG)
+* [ ] **Retrieval Augmented Generation (RAG)**: Connecting LLMs to external data.
+* [ ] **Vector Database**: Storing and searching embeddings efficiently.
+
+### Day 6: Agents & Integration (Doing Things)
+* [ ] **Agents**: AI systems that can plan and execute tasks.
+* [ ] **Function Calling / Tool Use**: How models interact with code/APIs.
+* [ ] **Model Context Protocol (MCP)**: Standardizing how AI connects to data.
+
+### Day 7: Optimization & The Future
+* [ ] **Fine-Tuning**: Customizing a model for specific tasks.
+* [ ] **Small Language Models (SLMs)**: Efficiency and running locally.
+* [ ] **Distillation**: Creating smaller models from larger ones.
+* [ ] **Quantization**: Reducing model precision for speed/memory.
+* [ ] **Multimodal Models**: Working with images, audio, and video.
